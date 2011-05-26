@@ -17,4 +17,4 @@ Wie kann Code dabei aussehen?
 
 ********************************
 
-Now here comes a Link to [intelligibel.de](http://www.intelligibel.de/ "Grandgeorg Websolutions")
+Jetz folgt ein Link zu [intelligibel.de](http://www.intelligibel.de/ "Grandgeorg Websolutions")
