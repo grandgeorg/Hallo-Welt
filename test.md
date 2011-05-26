@@ -18,3 +18,8 @@ Wie kann Code dabei aussehen?
 ********************************
 
 Jetz folgt ein Link zu [intelligibel.de](http://www.intelligibel.de/ "Grandgeorg Websolutions")
+
+Hier kommt eine Auflistung
+
+1. Apfel
+2. Birne
