@@ -16,3 +16,5 @@ Wie kann Code dabei aussehen?
     <?php echo 'Hallo Welt'; ?>
 
 ********************************
+
+Now here comes a Link to [intelligibel.de](http://www.intelligibel.de/ "Grandgeorg Websolutions")
